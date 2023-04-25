@@ -26,3 +26,7 @@ h1 {
   list-style-type: none;
 
 }
+
+.navLinks li {
+  display: inline-block;
+}
