@@ -6,7 +6,6 @@ body {
 
 h1 {
   font-size: 100px;
-  font-weight: 400;
   text-align: center;
     }
 
@@ -24,7 +23,6 @@ h1 {
   word-spacing: 1rem;
   text-decoration: none;
   list-style-type: none;
-
 }
 
 .navLinks li {
