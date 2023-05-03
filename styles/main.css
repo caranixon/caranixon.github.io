@@ -19,8 +19,13 @@ h1 {
   text-align: center;
     }
 
+.More {
+  text-align: center;
+  padding-top: 2rem;
+}
+
 .footerIndex {
-  padding-top: 25rem;
+  padding-top: 27rem;
   text-align: center;
 }
 
