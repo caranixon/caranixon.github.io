@@ -34,11 +34,6 @@ h1 {
   text-align: center;
 }
 
-.h3Beats {
-  text-align: center;
-  padding-top: 1rem;
-}
-
 a:link {
   text-decoration: none;
   color: black;
@@ -128,19 +123,22 @@ hr {
   width: 250px;
   height: 150px;
   overflow: hidden;
+  background: #333333;
 }
 
 .container1 {
   display: grid;
   grid-template-columns: 300px 300px 300px;
   text-align: left;
-  padding-left: 80px;
+  padding-left: 100px;
   padding-bottom: 300px;
+  padding-top: 20px;
 }
 
 .container1 img {
   width: 250px;
   height: 150px;
+   padding-left: 100px;
   overflow: hidden;
 }
 
@@ -152,8 +150,7 @@ hr {
 .column img {
   padding-top: 1rem;
   padding-left: 0px;
-  background: #333333;
-  padding: 2px; 
+  padding: 3px; 
   width: 250px;
   height: 150px; 
 }
