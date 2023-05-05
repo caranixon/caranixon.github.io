@@ -201,6 +201,11 @@ hr {
 }
 
 @media only screen and (max-device-width: 480px) {
-  img {
-    max-width: 50%;
-    }  }
+  .aboutMe img {
+  width: 30%;
+}
+
+.recently img {
+  width: 27%;
+}
+     }
