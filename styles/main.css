@@ -202,10 +202,17 @@ hr {
 
 @media only screen and (max-device-width: 480px) {
   .aboutMe img {
-  width: 30%;
+  width: 33%;
 }
 
-.recently img {
+  .recently img {
   width: 27%;
 }
+
+  .container {
+  text-align: left;
+  padding-left: 0px;
+  padding-bottom: 300px;
+}
+
      }
