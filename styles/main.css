@@ -138,7 +138,6 @@ hr {
 .container1 img {
   width: 250px;
   height: 150px;
-   padding-left: 100px;
   overflow: hidden;
 }
 
@@ -200,3 +199,8 @@ hr {
 .navLinks li {
   display: inline-block;
 }
+
+@media only screen and (max-device-width: 480px) {
+  img {
+    max-width: 50%;
+    }  }
