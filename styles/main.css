@@ -19,6 +19,17 @@ h1 {
   text-align: center;
     }
 
+.headshot {
+  width: 280px;
+  height: 180px;
+  float: left;
+  padding-top: 1rem;
+  padding-left: 55px;
+  padding-right: 30px;
+
+}
+
+
 .More {
   text-align: center;
   padding-top: 2rem;
@@ -79,6 +90,7 @@ hr {
 
 .recently img {
   width: 13%;
+  padding-top: 1.5rem;
 }
 
 .education img {
@@ -221,6 +233,27 @@ hr {
   text-align: left;
   padding-left: 0px;
   padding-bottom: 300px;
+}
+
+.container img {
+  width: 250px;
+  height: 150px;
+  overflow: hidden;
+  background: #333333;
+}
+
+
+.column {
+  padding: 16px;
+  height: 250px;
+}
+
+.column img {
+  padding-top: 1rem;
+  padding-left: 0px;
+  padding: 3px; 
+  width: 250px;
+  height: 150px; 
 }
 
      }
