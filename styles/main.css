@@ -233,32 +233,11 @@ hr {
   width: 27%;
 }
 
-  .container {
-  text-align: left;
-  padding-left: 0px;
-  padding-bottom: 300px;
-}
-
-  .container img {
-  width: 250px;
-  height: 150px;
-  overflow: hidden;
-  background: #333333;
-}
-
 
 .column {
-  padding: 16px;
-  height: 250px;
+  flex-direction: column-reverse;
 }
 
-.column img {
-  padding-top: 1rem;
-  padding-left: 0px;
-  padding: 3px; 
-  width: 250px;
-  height: 150px; 
-}
 
 .headshot {
   width: 50%;
