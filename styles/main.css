@@ -233,11 +233,9 @@ hr {
   width: 27%;
 }
 
-
 .column {
   flex-direction: column-reverse;
 }
-
 
 .headshot {
   width: 80%;
