@@ -72,6 +72,10 @@ hr {
   border-top: 3px dashed black;
 }
 
+.aboutMeSection {
+  padding-right: 80px;
+}
+
 .portfoliopara {
   font-size: 16px;
 }
@@ -257,11 +261,9 @@ hr {
 }
 
 .headshot {
-  width: 280px;
-  height: 180px;
+  width: 50%;
   float: left;
   padding-top: 1rem;
 }
-
 
      }
