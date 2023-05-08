@@ -241,10 +241,25 @@ hr {
   width: 100%;
   float: left;
   padding-top: 1rem;
+  padding-left: -2rem;
 }
 
 .aboutMeSection {
   padding-right: 10px;
+}
+
+.column {
+  flex-direction: column-reverse;
+  padding: 16px;
+  height: 250px;
+}
+
+.column img {
+  padding-top: 1rem;
+  padding-left: 0px;
+  padding: 3px; 
+  width: 250px;
+  height: 150px; 
 }
 
      }
