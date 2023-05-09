@@ -259,4 +259,12 @@ hr {
   padding-bottom: 200px;
   padding-top: 20px;
 }
+
+.column {
+  display: block;
+}
+
+.column img {
+  display: block;
+}
      }
