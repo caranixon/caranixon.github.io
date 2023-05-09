@@ -261,4 +261,13 @@ hr {
   padding: 1em;
   grid-row-gap: 100px;
 }
+
+.container1 img {
+  display: grid;
+  grid-template-columns: 50px 50px 50px;
+  text-align: left;
+  padding-left: 0px;
+  padding-bottom: 200px;
+  padding-top: 20px;
+}
      }
