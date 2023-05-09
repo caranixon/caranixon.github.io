@@ -225,9 +225,6 @@ hr {
   margin: auto;
 }
 
-  body {
-  width: 480px;
-}
 
   .aboutMe img {
   width: 40%;
@@ -245,7 +242,6 @@ hr {
   width: 100%;
   float: left;
   padding-top: 1rem;
-  padding-left: -2rem;
 }
 
 .aboutMeSection {
@@ -253,7 +249,8 @@ hr {
 }
 
 .column {
-  flex-direction: column-reverse;
+  display: grid;
+  grid-template-columns: 1fr;
   padding: 16px;
   height: 250px;
 }
@@ -265,5 +262,6 @@ hr {
   width: 250px;
   height: 150px; 
 }
+
 
      }
