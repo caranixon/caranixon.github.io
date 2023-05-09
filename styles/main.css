@@ -251,11 +251,7 @@ hr {
 }
 
 .container {
-  display: grid;
-  grid-template-columns: 50px 50px 50px;
-  text-align: left;
-  padding-left: 10px;
-  padding-bottom: 100px;
+  flex: column;
 }
 
 .container img {
