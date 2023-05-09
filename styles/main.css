@@ -225,7 +225,6 @@ hr {
   margin: auto;
 }
 
-
   .aboutMe img {
   width: 40%;
 }
@@ -251,17 +250,7 @@ hr {
 .column {
   display: grid;
   grid-template-columns: 1fr;
-  padding: 16px;
-  height: 250px;
+  padding: 1em;
+  grid-row-gap: 100px;
 }
-
-.column img {
-  padding-top: 1rem;
-  padding-left: 0px;
-  padding: 3px; 
-  width: 250px;
-  height: 150px; 
-}
-
-
      }
