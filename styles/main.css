@@ -243,7 +243,7 @@ hr {
 
 .container1 img {
   display: grid;
-  grid-template-columns: 300px 300px 300px;
+  grid-template-columns: 50px 50px 50px;
   text-align: left;
   padding-left: 0px;
   padding-bottom: 1rem;
@@ -278,34 +278,34 @@ hr {
   height: 50px; 
 }
 
-.education img {
-  width: 10%;
-  padding-top: 1rem;
+.educationbutton img {
+  height: 50px;
+  width: 50px;
 }
 
-.housing img {
-  width: 10%;
-  padding-top: 2rem;
+.housingbutton img {
+  height: 50px;
+  width: 50px;
 }
 
-.politics img {
-  width: 10%;
-  padding-top: 2rem;
+.aebutton img {
+  height: 50px;
+  width: 50px;
 }
 
-.socialjustice img {
-  width: 10%;
-  padding-top: 2rem;
+.healthbutton img {
+  height: 50px;
+  width: 50px;
 }
 
-.health img {
-  width: 10%;
-  padding-top: 2rem;
+.sjbutton img {
+  height: 50px;
+  width: 50px;
 }
 
-.ac img {
-  width: 10%;
-  padding-top: 2rem;
+.polibutton img {
+  height: 50px;
+  width: 50px;
 }
 
 
