@@ -246,6 +246,7 @@ hr {
   text-align: left;
   padding-left: 0px;
   padding-bottom: 1rem;
+  padding-top: 1rem;
 }
 
 .column {
@@ -254,7 +255,6 @@ hr {
 
 .column img {
   display: block;
-  padding-top: 20px;
 }
 
 .education img {
