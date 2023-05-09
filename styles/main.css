@@ -225,6 +225,10 @@ hr {
   margin: auto;
 }
 
+  body {
+  width: 480px;
+}
+
   .aboutMe img {
   width: 40%;
 }
