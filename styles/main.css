@@ -261,27 +261,19 @@ hr {
 }
 
 .container {
-  flex: column;
+  display: none;
 }
 
 .container img {
-  width: 100px;
-  height: 50px;
-  overflow: hidden;
-  background: #333333;
+  display: none;
 }
 
 .column {
-  padding: 16px;
-  height: 250px;
+  display: none;
 }
 
 .column img {
-  padding-top: 1rem;
-  padding-left: 0px;
-  padding: 3px; 
-  width: 100px;
-  height: 50px; 
+  display: none;
 }
 
 .educationbutton img {
