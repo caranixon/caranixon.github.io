@@ -240,14 +240,6 @@ hr {
   padding-right: 10px;
 }
 
-.container {
-  display: block;
-}
-
-.container img {
-  display: block;
-}
-
 .container1 img {
   display: grid;
   grid-template-columns: 300px 300px 300px;
