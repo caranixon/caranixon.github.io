@@ -266,5 +266,6 @@ hr {
 
 .column img {
   display: block;
+  padding-top: 20px;
 }
      }
