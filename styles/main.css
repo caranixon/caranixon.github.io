@@ -249,12 +249,32 @@ hr {
   padding-top: 1rem;
 }
 
+.container {
+  display: grid;
+  grid-template-columns: 50px 50px 50px;
+  text-align: left;
+  padding-left: 10px;
+  padding-bottom: 100px;
+}
+
+.container img {
+  width: 100px;
+  height: 50px;
+  overflow: hidden;
+  background: #333333;
+}
+
 .column {
-  display: block;
+  padding: 16px;
+  height: 250px;
 }
 
 .column img {
-  display: block;
+  padding-top: 1rem;
+  padding-left: 0px;
+  padding: 3px; 
+  width: 100px;
+  height: 50px; 
 }
 
 .education img {
@@ -286,4 +306,6 @@ hr {
   width: 10%;
   padding-top: 2rem;
 }
+
+
      }
