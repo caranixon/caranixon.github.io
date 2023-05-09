@@ -227,7 +227,6 @@ hr {
 
   .aboutMe img {
   width: 40%;
-  float: left;
 }
 
   .recently img {
@@ -242,6 +241,7 @@ hr {
   width: 100%;
   float: left;
   padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .aboutMeSection {
