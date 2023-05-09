@@ -248,11 +248,11 @@ hr {
   padding-right: 10px;
 }
 
-.column {
+.container {
   display: block;
 }
 
-.column img {
+.container img {
   display: block;
 }
 
