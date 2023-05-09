@@ -249,17 +249,11 @@ hr {
 }
 
 .column {
-  display: grid;
-  grid-template-columns: 1fr;
-  padding: 1em;
-  grid-row-gap: 100px;
+  display: block;
 }
 
 .column img {
-  display: grid;
-  grid-template-columns: 1fr;
-  padding: 1em;
-  grid-row-gap: 100px;
+  display: block;
 }
 
 .container1 img {
