@@ -160,7 +160,8 @@ hr {
 
 .column img {
   padding-top: 1rem;
-  padding-left: 0px;
+  padding-left: 3rem;
+  padding-right: 3rem;
   padding: 3px; 
   width: 250px;
   height: 150px; 
