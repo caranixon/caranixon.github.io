@@ -215,7 +215,7 @@ hr {
 @media only screen and (max-device-width: 768px) {
   .header img {
   width: 90%;
-  padding-left: 50px;
+  padding-left: 40px;
   display: block;
   padding-top: 2rem;
   margin: auto;
