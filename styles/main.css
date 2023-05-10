@@ -273,6 +273,7 @@ hr {
   padding-right: 1rem;
   padding-bottom: 1rem;
   padding-top: 1rem;
+  float: left;
 }
 
 .container1 img {
@@ -283,6 +284,7 @@ hr {
   padding-right: 1rem;
   padding-bottom: 1rem;
   padding-top: 1rem;
+  float: left;
 }
 
 .container {
