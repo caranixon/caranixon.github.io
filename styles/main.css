@@ -19,16 +19,6 @@ h1 {
   text-align: center;
     }
 
-.headshot {
-  width: 280px;
-  height: 180px;
-  float: left;
-  padding-top: 1rem;
-  padding-left: 55px;
-  padding-right: 30px;
-
-}
-
 .More {
   text-align: center;
   padding-top: 2rem;
@@ -72,7 +62,17 @@ hr {
 }
 
 .aboutMeSection {
-  padding-right: 80px;
+   padding-right: 80px;
+}
+
+.aboutMeSection img {
+  width: 280px;
+  height: 180px;
+  float: left;
+  padding-top: 1rem;
+  padding-left: 55px;
+  padding-right: 30px;
+
 }
 
 .header img {
@@ -251,20 +251,19 @@ hr {
   display: none;
 }
 
-.headshot {
-  width: 90%;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  padding-right: 50px;
-  padding-left: 50px;
-  float: center;
-}
-
 .aboutMeSection {
   padding-top: 1rem;
   padding-right: 40px;
   padding-left: 2.5rem;
   text-align: center;
+}
+
+.aboutMeSection img {
+  width: 90%;
+  float: left;
+  padding-top: 1rem;
+  padding-left: 55px;
+  padding-right: 30px;
 }
 
 .container1 {
