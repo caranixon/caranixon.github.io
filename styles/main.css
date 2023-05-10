@@ -231,11 +231,11 @@ hr {
 }
 
 .headshot {
-  width: 90%;
+  width: 30%;
   padding-top: 1rem;
   padding-bottom: 1rem;
   padding-right: 8rem;
-  float: center;
+  float: left;
 }
 
 .aboutMeSection {
