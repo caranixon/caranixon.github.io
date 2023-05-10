@@ -227,8 +227,7 @@ hr {
 }
 
 @media only screen and (max-device-width: 768px) {
-  html, body {
-  overflow-x: hidden;
+  body {
   width: 80%;
   margin: 0 auto;
 }
