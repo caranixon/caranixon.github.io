@@ -234,7 +234,6 @@ hr {
 
   .header img {
   width: 90%;
-  padding-left: 50px;
   padding-right: 50px;
   display: block;
   padding-top: 2rem;
@@ -268,7 +267,6 @@ hr {
 .container1 {
   display: grid;
   grid-template-columns: 100px 100px 100px;
-  padding-left: 1rem;
   padding-right: 1rem;
   padding-bottom: 1rem;
   padding-top: 1rem;
@@ -277,7 +275,6 @@ hr {
 .container1 img {
   display: grid;
   grid-template-columns: 100px 100px 100px;
-  padding-left: 1rem;
   padding-right: 1rem;
   padding-bottom: 1rem;
   padding-top: 1rem;
