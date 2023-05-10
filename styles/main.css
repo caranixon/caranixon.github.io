@@ -259,14 +259,14 @@ hr {
 }
 
 .aboutMeSection {
-  padding-right: 30px;
-  padding-left: 30px;
+  padding-right: 40px;
+  padding-left: 40px;
   text-align: center;
 }
 
 .container1 {
   display: grid;
-  grid-template-columns: 80px 80px 80px;
+  grid-template-columns: 100px 100px 100px;
   text-align: left;
   padding-left: 1rem;
   padding-right: 1rem;
@@ -276,7 +276,7 @@ hr {
 
 .container1 img {
   display: grid;
-  grid-template-columns: 80px 80px 80px;
+  grid-template-columns: 100px 100px 100px;
   text-align: left;
   padding-left: 1rem;
   padding-right: 1rem;
