@@ -227,6 +227,11 @@ hr {
 }
 
 @media only screen and (max-device-width: 768px) {
+  body {
+  width: 80%;
+  margin: 0 auto;
+}
+
   .header img {
   width: 90%;
   padding-left: 50px;
@@ -253,8 +258,8 @@ hr {
 }
 
 .aboutMeSection {
-  padding-right: 50px;
-  padding-left: 50px;
+  padding-right: 30px;
+  padding-left: 30px;
   text-align: center;
 }
 
