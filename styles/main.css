@@ -253,17 +253,11 @@ hr {
   padding-top: 1rem;
   padding-right: 40px;
   padding-left: 2.5rem;
-  text-align: center;
+  text-align: left;
 }
 
 .aboutMeSection img {
-  width: 280px;
-  height: 180px;
-  float: left;
-  padding-top: 1rem;
-  padding-left: 55px;
-  padding-right: 30px;
-  float: center;
+  display: none;
 }
 
 .container {
