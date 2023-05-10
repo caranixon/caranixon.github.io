@@ -282,6 +282,8 @@ hr {
   padding-right: 1rem;
   padding-bottom: 1rem;
   padding-top: 1rem;
+  height:auto;
+  overflow:auto;
 }
 
 .container1 img {
@@ -290,6 +292,8 @@ hr {
   padding-right: 1rem;
   padding-bottom: 1rem;
   padding-top: 1rem;
+  float:right;
+  height:auto;
 }
 
 .educationbutton img {
