@@ -260,7 +260,7 @@ hr {
 
 .aboutMeSection {
   padding-right: 40px;
-  padding-left: 70px;
+  padding-left: 80px;
   text-align: center;
 }
 
@@ -333,6 +333,7 @@ hr {
 .footerIndex {
   padding-top: 5rem;
   text-align: center;
+  padding-left: 80px;
 }
 
      }
