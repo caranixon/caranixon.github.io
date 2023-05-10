@@ -252,7 +252,8 @@ hr {
 }
 
 .aboutMeSection {
-  padding-right: 10px;
+  padding-right: 0px;
+  float: center;
 }
 
 .container1 {
