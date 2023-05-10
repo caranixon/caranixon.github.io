@@ -167,6 +167,19 @@ hr {
   height: 150px; 
 }
 
+.column1 {
+  padding: 16px;
+  height: 250px;
+}
+
+.column1 img {
+  padding-top: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  padding: 3px; 
+  width: 250px;
+  height: 150px; 
+}
 .educationbutton img {
   height: 200px;
   width: 200px;
