@@ -12,27 +12,11 @@ body {
   background-color: white;
 }
 
-
 h1 {
   font-size: 60px;
   font-weight: 900;
   text-align: center;
     }
-
-.More {
-  text-align: center;
-  padding-top: 2rem;
-}
-
-.footerIndex {
-  padding-top: 30rem;
-  text-align: center;
-}
-
-.footerLink {
-  padding-top: 5rem;
-  text-align: center;
-}
 
 a:link {
   text-decoration: none;
@@ -61,26 +45,41 @@ hr {
   border-top: 3px dashed black;
 }
 
-.aboutMeSection {
-   padding-right: 80px;
-}
-
-.aboutMeSection img {
-  width: 280px;
-  height: 180px;
-  float: left;
-  padding-top: 1rem;
-  padding-left: 55px;
-  padding-right: 30px;
-
-}
-
 .header img {
   width: 35%;
   padding-left: 50px;
   display: block;
   padding-top: 2rem;
   margin: auto;
+}
+
+.navLinks {
+  text-align: center;
+  word-spacing: 1.5rem;
+  font-size: 18px;
+  background-color: white;
+}
+
+.navLinks ul {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.navLinks li {
+  display: inline-block;
+}
+
+.aboutMeSection {
+   padding-right: 80px;
+}
+
+.aboutMeSection img {
+  width: 280px;
+  height: 190px;
+  float: left;
+  padding-top: 1rem;
+  padding-left: 55px;
+  padding-right: 30px;
 }
 
 .aboutMe img {
@@ -90,36 +89,6 @@ hr {
 .recently img {
   width: 13%;
   padding-top: 1.5rem;
-}
-
-.education img {
-  width: 18%;
-  padding-top: 1rem;
-}
-
-.housing img {
-  width: 15%;
-  padding-top: 2rem;
-}
-
-.politics img {
-  width: 13%;
-  padding-top: 2rem;
-}
-
-.socialjustice img {
-  width: 20%;
-  padding-top: 2rem;
-}
-
-.health img {
-  width: 13%;
-  padding-top: 2rem;
-}
-
-.ac img {
-  width: 22%;
-  padding-top: 2rem;
 }
 
 .container {
@@ -137,6 +106,30 @@ hr {
   background: #333333;
 }
 
+.column {
+  padding: 16px;
+  height: 250px;
+}
+
+.column img {
+  padding-top: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  padding: 3px; 
+  width: 250px;
+  height: 150px; 
+}
+
+.More {
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.footerIndex {
+  padding-top: 30rem;
+  text-align: center;
+}
+
 .container1 {
   display: grid;
   grid-template-columns: 300px 300px 300px;
@@ -150,20 +143,6 @@ hr {
   width: 250px;
   height: 150px;
   overflow: hidden;
-}
-
-.column {
-  padding: 16px;
-  height: 250px;
-}
-
-.column img {
-  padding-top: 1rem;
-  padding-left: 3rem;
-  padding-right: 3rem;
-  padding: 3px; 
-  width: 250px;
-  height: 150px; 
 }
 
 .column1 {
@@ -210,20 +189,39 @@ hr {
   width: 200px;
 }
 
-.navLinks {
+.education img {
+  width: 18%;
+  padding-top: 1rem;
+}
+
+.housing img {
+  width: 15%;
+  padding-top: 2rem;
+}
+
+.politics img {
+  width: 13%;
+  padding-top: 2rem;
+}
+
+.socialjustice img {
+  width: 20%;
+  padding-top: 2rem;
+}
+
+.health img {
+  width: 13%;
+  padding-top: 2rem;
+}
+
+.ac img {
+  width: 22%;
+  padding-top: 2rem;
+}
+
+.footerLink {
+  padding-top: 5rem;
   text-align: center;
-  word-spacing: 1.5rem;
-  font-size: 18px;
-  background-color: white;
-}
-
-.navLinks ul {
-  text-decoration: none;
-  list-style-type: none;
-}
-
-.navLinks li {
-  display: inline-block;
 }
 
 @media only screen and (max-device-width: 768px) {
@@ -244,10 +242,6 @@ hr {
   padding-top: 1rem;
 }
 
-  .recently img {
-  display: none;
-}
-
 .aboutMeSection {
   padding-top: 1rem;
   padding-right: 40px;
@@ -256,6 +250,10 @@ hr {
 }
 
 .aboutMeSection img {
+  display: none;
+}
+
+  .recently img {
   display: none;
 }
 
@@ -273,6 +271,11 @@ hr {
 
 .column img {
   display: none;
+}
+
+.footerIndex {
+  padding-top: 5rem;
+  text-align: center;
 }
 
 .container1 {
@@ -354,10 +357,4 @@ hr {
   width: 32%;
   padding-top: 2rem;
 }
-
-.footerIndex {
-  padding-top: 5rem;
-  text-align: center;
-}
-
      }
