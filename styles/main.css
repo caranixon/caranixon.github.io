@@ -260,8 +260,9 @@ hr {
 }
 
 .aboutMeSection {
+  padding-top: 1rem;
   padding-right: 40px;
-  padding-left: 2rem;
+  padding-left: 2.5rem;
   text-align: center;
 }
 
